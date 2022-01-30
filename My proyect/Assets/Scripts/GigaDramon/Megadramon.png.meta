@@ -1,0 +1,1848 @@
+fileFormatVersion: 2
+guid: e69250bc2d395ce43977519e77d3b84d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5767167051049502172
+    second: Megadramon_0
+  - first:
+      213: -3948533666080174133
+    second: Megadramon_5
+  - first:
+      213: -6911593733400998336
+    second: Megadramon_6
+  - first:
+      213: -39054581893932457
+    second: Megadramon_7
+  - first:
+      213: 1768421028023939711
+    second: Megadramon_8
+  - first:
+      213: -5408632748261358229
+    second: Megadramon_9
+  - first:
+      213: -7485454337809780836
+    second: Megadramon_10
+  - first:
+      213: -6832623959776264274
+    second: Megadramon_14
+  - first:
+      213: -8451176514514441131
+    second: Megadramon_15
+  - first:
+      213: 1887327386407743583
+    second: Megadramon_16
+  - first:
+      213: 6084030341644703173
+    second: Megadramon_17
+  - first:
+      213: 3453025363540583478
+    second: Megadramon_18
+  - first:
+      213: -7237189178352158695
+    second: Megadramon_19
+  - first:
+      213: 9061248195713629691
+    second: Megadramon_20
+  - first:
+      213: 132913703922961807
+    second: Megadramon_21
+  - first:
+      213: -1697057364425196060
+    second: Megadramon_22
+  - first:
+      213: 5066111325416742295
+    second: Megadramon_23
+  - first:
+      213: -2188927517110969134
+    second: Megadramon_24
+  - first:
+      213: 3702832731147613375
+    second: Megadramon_25
+  - first:
+      213: 2129276286686087123
+    second: Megadramon_26
+  - first:
+      213: -8214018496554001613
+    second: Megadramon_27
+  - first:
+      213: 7961541210725940874
+    second: Megadramon_28
+  - first:
+      213: 6213999947183647525
+    second: Megadramon_29
+  - first:
+      213: 1912970081219329338
+    second: Megadramon_30
+  - first:
+      213: 484391302584019520
+    second: Megadramon_31
+  - first:
+      213: -9212393974894910873
+    second: Megadramon_32
+  - first:
+      213: -4837651144856795691
+    second: Megadramon_33
+  - first:
+      213: -9190328385731214253
+    second: Megadramon_34
+  - first:
+      213: 7157613451387181117
+    second: Megadramon_35
+  - first:
+      213: -110082080229369998
+    second: Megadramon_36
+  - first:
+      213: 3853591385099678438
+    second: Megadramon_37
+  - first:
+      213: 2912188611157253564
+    second: Megadramon_38
+  - first:
+      213: 8752494643305255029
+    second: Megadramon_39
+  - first:
+      213: -2250325467633412023
+    second: Megadramon_40
+  - first:
+      213: -5042954065382278541
+    second: Megadramon_41
+  - first:
+      213: -1280517033817353436
+    second: Megadramon_42
+  - first:
+      213: -7863704693995621467
+    second: Megadramon_43
+  - first:
+      213: -2698556484580077600
+    second: Megadramon_44
+  - first:
+      213: -987214082651257080
+    second: Megadramon_45
+  - first:
+      213: -44528574125984514
+    second: Megadramon_46
+  - first:
+      213: 6014462207542200658
+    second: Megadramon_47
+  - first:
+      213: -8398986502453779828
+    second: Megadramon_48
+  - first:
+      213: -5955767163235664382
+    second: Megadramon_49
+  - first:
+      213: -7765276381578844351
+    second: Megadramon_50
+  - first:
+      213: 36184208742478233
+    second: Megadramon_51
+  - first:
+      213: 6856099298329237149
+    second: Megadramon_52
+  - first:
+      213: 8540780934006874960
+    second: Megadramon_53
+  - first:
+      213: -9214109046161682161
+    second: Megadramon_54
+  - first:
+      213: 56887463360640003
+    second: Megadramon_55
+  - first:
+      213: -3184594656301328812
+    second: Megadramon_56
+  - first:
+      213: -7410756644102398103
+    second: Megadramon_57
+  - first:
+      213: 1207092371127145463
+    second: Megadramon_58
+  - first:
+      213: 5992706349993742623
+    second: Megadramon_59
+  - first:
+      213: 912178386568986758
+    second: Megadramon_60
+  - first:
+      213: 7084615547386652335
+    second: Megadramon_61
+  - first:
+      213: 721053495525159544
+    second: Megadramon_62
+  - first:
+      213: 5159766899083529249
+    second: Megadramon_63
+  - first:
+      213: -9017422117039695854
+    second: Megadramon_64
+  - first:
+      213: 2819376777327086317
+    second: Megadramon_65
+  - first:
+      213: -6401030766325354532
+    second: Megadramon_66
+  - first:
+      213: 3705089159256015519
+    second: Megadramon_67
+  - first:
+      213: -1778759737928996022
+    second: Megadramon_68
+  - first:
+      213: 3474667584950604443
+    second: Megadramon_69
+  - first:
+      213: -139030121543565938
+    second: Megadramon_70
+  - first:
+      213: 6765958004504340755
+    second: Megadramon_71
+  - first:
+      213: -4725163266953169477
+    second: Megadramon_72
+  - first:
+      213: 7109534442505335226
+    second: Megadramon_73
+  - first:
+      213: -7417061067581987484
+    second: Megadramon_74
+  - first:
+      213: 5810457396764417695
+    second: Megadramon_75
+  - first:
+      213: 5583200207271272710
+    second: Megadramon_76
+  - first:
+      213: -287649156211814746
+    second: Megadramon_77
+  - first:
+      213: -4619099262684903754
+    second: Megadramon_78
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Megadramon_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 584
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5842e80e7190050800000000000000
+      internalID: 5767167051049502172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 528
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfce990d8df339c0800000000000000
+      internalID: -3948533666080174133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 525
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e41d06e161510a0800000000000000
+      internalID: -6911593733400998336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 521
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a5c5f8010457ff0800000000000000
+      internalID: -39054581893932457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 516
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72b2b43e81ba8810800000000000000
+      internalID: 1768421028023939711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 519
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65465feb2da0f4b0800000000000000
+      internalID: -5408632748261358229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_10
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 524
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fe07c70f25e1890800000000000000
+      internalID: -7485454337809780836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 446
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf76b995b4ad21a0800000000000000
+      internalID: -6832623959776264274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 451
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c2e3e7cb367ba80800000000000000
+      internalID: -8451176514514441131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 450
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5033b92242213a10800000000000000
+      internalID: 1887327386407743583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 449
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c55e647c51de6450800000000000000
+      internalID: 6084030341644703173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 445
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6342042f54c9bef20800000000000000
+      internalID: 3453025363540583478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_19
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 448
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918b40c59c6509b90800000000000000
+      internalID: -7237189178352158695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 450
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdf827b93500cd70800000000000000
+      internalID: 9061248195713629691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_21
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 451
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d0c1c3f4438d100800000000000000
+      internalID: 132913703922961807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 423
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edb9f58157d278e0800000000000000
+      internalID: -1697057364425196060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 423
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d5c08b8617e4640800000000000000
+      internalID: 5066111325416742295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 420
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcd587450e5f91e0800000000000000
+      internalID: -2188927517110969134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_25
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 423
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb43eb220ca136330800000000000000
+      internalID: 3702832731147613375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 420
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d746985085bc8d10800000000000000
+      internalID: 2129276286686087123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 409
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b196672b1f10e80800000000000000
+      internalID: -8214018496554001613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 409
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ef3f19c831d7e60800000000000000
+      internalID: 7961541210725940874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 409
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b6d2e57009c3650800000000000000
+      internalID: 6213999947183647525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 359
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d370d472c3c8a10800000000000000
+      internalID: 1912970081219329338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_31
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 356
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a2fc2c257e8b600800000000000000
+      internalID: 484391302584019520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_32
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 400
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762a07b3d70072080800000000000000
+      internalID: -9212393974894910873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 400
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d58c8b2ae53ddcb0800000000000000
+      internalID: -4837651144856795691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_34
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 360
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3544d4f8605657080800000000000000
+      internalID: -9190328385731214253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_35
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 318
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d389d79e283f45360800000000000000
+      internalID: 7157613451387181117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 318
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277dac76ee8e87ef0800000000000000
+      internalID: -110082080229369998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 318
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e23f5292f4ba7530800000000000000
+      internalID: 3853591385099678438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 318
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd57f6cc1c2a6820800000000000000
+      internalID: 2912188611157253564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 318
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57018b0618b177970800000000000000
+      internalID: 8752494643305255029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 318
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94812b0f8ec35c0e0800000000000000
+      internalID: -2250325467633412023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 318
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37af64a0ff3d30ab0800000000000000
+      internalID: -5042954065382278541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_42
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 262
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423da7eca80ba3ee0800000000000000
+      internalID: -1280517033817353436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_43
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 262
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3b1d79e328ed290800000000000000
+      internalID: -7863704693995621467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 262
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef0742cc2dcc8ad0800000000000000
+      internalID: -2698556484580077600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_45
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 262
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8070f46b506bc42f0800000000000000
+      internalID: -987214082651257080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_46
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 262
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4bddc6f7dc16ff0800000000000000
+      internalID: -44528574125984514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_47
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 224
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25980930389a77350800000000000000
+      internalID: 6014462207542200658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_48
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 224
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8221f7964ec07b80800000000000000
+      internalID: -8398986502453779828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_49
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 224
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ef66ee15dd85da0800000000000000
+      internalID: -5955767163235664382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 224
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147234de5423c3490800000000000000
+      internalID: -7765276381578844351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_51
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 224
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991f29c985d808000800000000000000
+      internalID: 36184208742478233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 224
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9618b59cf1c52f50800000000000000
+      internalID: 6856099298329237149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_53
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 224
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053a8eb2203f68670800000000000000
+      internalID: 8540780934006874960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_54
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 159
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01d1d514a8e02080800000000000000
+      internalID: -9214109046161682161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_55
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 159
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304b8c5b8da1ac000800000000000000
+      internalID: 56887463360640003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_56
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 159
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4565d85680c0ec3d0800000000000000
+      internalID: -3184594656301328812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_57
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 159
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f19679814b72990800000000000000
+      internalID: -7410756644102398103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_58
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 159
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f31e18bd1470c010800000000000000
+      internalID: 1207092371127145463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_59
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 159
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11da92bcae5a2350800000000000000
+      internalID: 5992706349993742623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_60
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 159
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680cb3fd865b8ac00800000000000000
+      internalID: 912178386568986758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_61
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 159
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6e030fd4c915260800000000000000
+      internalID: 7084615547386652335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_62
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 173
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872b4d87552b10a00800000000000000
+      internalID: 721053495525159544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_63
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 174
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c41b738ac2b9740800000000000000
+      internalID: 5159766899083529249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_64
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 174
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21819146c5eabd280800000000000000
+      internalID: -9017422117039695854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_65
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 123
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea0194cd30702720800000000000000
+      internalID: 2819376777327086317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_66
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 123
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfa4d0ae68fa27a0800000000000000
+      internalID: -6401030766325354532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_67
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 123
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f920b9eb5fe1b6330800000000000000
+      internalID: 3705089159256015519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_68
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ba9ff41739057e0800000000000000
+      internalID: -1778759737928996022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_69
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b929b8942cf783030800000000000000
+      internalID: 3474667584950604443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_70
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 123
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8df05057d0121ef0800000000000000
+      internalID: -139030121543565938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_71
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 123
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31921bf15f285ed50800000000000000
+      internalID: 6765958004504340755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_72
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 75
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5388f2b09dc6eb0800000000000000
+      internalID: -4725163266953169477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_73
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 75
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab17fe358e32aa260800000000000000
+      internalID: 7109534442505335226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_74
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 75
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465656d914e411990800000000000000
+      internalID: -7417061067581987484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_75
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 75
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e1fac9734e2a050800000000000000
+      internalID: 5810457396764417695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_76
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 74
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601aa48e1038b7d40800000000000000
+      internalID: 5583200207271272710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_77
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 75
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aecd00dd90120cf0800000000000000
+      internalID: -287649156211814746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megadramon_78
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 7
+        width: 345
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6c56191b9a5efb0800000000000000
+      internalID: -4619099262684903754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
